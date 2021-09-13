@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khatadet&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khatadet&theme=vue-dark)
 ![tao-isaman github stats](https://github-readme-stats.vercel.app/api?username=khatadet&show_icons=true&theme=vue-dark)
 ![trophy](https://github-profile-trophy.vercel.app/?username=khatadet&theme=onedark)
 
